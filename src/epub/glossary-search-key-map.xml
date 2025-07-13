@@ -759,6 +759,9 @@
 	<search-key-group href="text/glossary.xhtml#malt-abune-the-meal">
 		<match value="malt abune the meal"/>
 	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mart">
+		<match value="mart"/>
+	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mask">
 		<match value="mask"/>
 	</search-key-group>

@@ -95,3 +95,17 @@ blockquote header{
 blockquote[xml|lang]{
 	font-style: italic;
 }
+
+/* Start glossary */
+dl{
+	margin: 1em 0;
+}
+
+dd{
+	margin-left: 40px;
+}
+
+dd + dt{
+	margin-top: 1em;
+}
+/* End glossary */

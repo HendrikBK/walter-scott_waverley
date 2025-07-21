@@ -9,6 +9,9 @@
 	<search-key-group href="text/glossary.xhtml#aby">
 		<match value="aby"/>
 	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#aboon">
+		<match value="aboon"/>
+	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#accolade">
 		<match value="accolade"/>
 	</search-key-group>
@@ -396,7 +399,7 @@
 	<search-key-group href="text/glossary.xhtml#deliver">
 		<match value="deliver"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#deoch-an-doruis">
+	<search-key-group href="text/glossary.xhtml#deoch-and-dorius">
 		<match value="deoch and dorius"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dern">
@@ -831,6 +834,9 @@
 	<search-key-group href="text/glossary.xhtml#nolt">
 		<match value="nolt"/>
 	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ony">
+		<match value="ony"/>
+	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#old-to-do">
 		<match value="old to do"/>
 	</search-key-group>
@@ -1074,8 +1080,8 @@
 	<search-key-group href="text/glossary.xhtml#spuilzie">
 		<match value="spuilzie"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#spung">
-		<match value="spung"/>
+	<search-key-group href="text/glossary.xhtml#spong">
+		<match value="spong"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#spurrzie">
 		<match value="spurrzie"/>
@@ -1251,7 +1257,7 @@
 	<search-key-group href="text/glossary.xhtml#weel">
 		<match value="weel"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#weel-fard">
+	<search-key-group href="text/glossary.xhtml#well-fard">
 		<match value="well-fard"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#weising">

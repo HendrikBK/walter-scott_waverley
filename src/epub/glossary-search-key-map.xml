@@ -52,13 +52,13 @@
 		<match value="aneuch"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#array">
-		<match value="array."/>
+		<match value="array"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#assoilzied">
-		<match value="assoilzied."/>
+		<match value="assoilzied"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#assythment">
-		<match value="assythment."/>
+		<match value="assythment"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#auld">
 		<match value="auld"/>

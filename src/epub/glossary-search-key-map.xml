@@ -73,7 +73,9 @@
 		<match value="baff"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bagganet">
-		<match value="bagganet"/>
+		<match value="bagganet">
+			<value value="bagganets"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bailie">
 		<match value="bailie"/>
@@ -109,7 +111,9 @@
 		<match value="bawty"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#baxter">
-		<match value="baxter"/>
+		<match value="baxter">
+			<value value="baxters"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bees">
 		<match value="bees"/>
@@ -331,7 +335,9 @@
 		<match value="cogs"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cogue">
-		<match value="cogue"/>
+		<match value="cogue">
+			<value value="cogues"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#concussed">
 		<match value="concussed"/>
@@ -406,7 +412,9 @@
 		<match value="dern"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ding">
-		<match value="ding"/>
+		<match value="ding">
+			<value value="ding"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dingle">
 		<match value="dingle"/>
@@ -418,7 +426,9 @@
 		<match value="doer"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dog-head">
-		<match value="dog-head"/>
+		<match value="dog-head">
+			<value value="dog-heads"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#doiled">
 		<match value="doiled"/>
@@ -517,7 +527,9 @@
 		<match value="gad"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gaberlunzie">
-		<match value="gaberlunzie"/>
+		<match value="gaberlunzie">
+			<value value="gaberlunzies"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gane">
 		<match value="gane"/>
@@ -553,7 +565,9 @@
 		<match value="gillie-wet-foot"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gimmer">
-		<match value="gimmer"/>
+		<match value="gimmer">
+			<value value="gimmers"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gin">
 		<match value="gin"/>
@@ -598,7 +612,9 @@
 		<match value="gude"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gulpin">
-		<match value="gulpin"/>
+		<match value="gulpin">
+			<value value="gulpins"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ha">
 		<match value="ha’"/>
@@ -673,7 +689,10 @@
 		<match value="ingle"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#intromit">
-		<match value="intromit"/>
+		<match value="intromit">
+			<value value="intromitting"/>
+			<value value="intromitted"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#keepit">
 		<match value="keepit"/>
@@ -697,7 +716,9 @@
 		<match value="knobbler"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#kyloe">
-		<match value="kyloe"/>
+		<match value="kyloe">
+			<value value="kyloes"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#laird">
 		<match value="laird"/>
@@ -727,7 +748,9 @@
 		<match value="lightly"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#limmer">
-		<match value="limmer"/>
+		<match value="limmer">
+			<value value="limmers"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#loch">
 		<match value="loch"/>
@@ -760,7 +783,9 @@
 		<match value="maist"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#malt-abune-the-meal">
-		<match value="malt abune the meal"/>
+		<match value="malt abune the meal">
+			<value value="malt rather abune the meal"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mart">
 		<match value="mart"/>
@@ -868,10 +893,14 @@
 		<match value="peel-house"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pendicle">
-		<match value="pendicle"/>
+		<match value="pendicle">
+			<value value="pendicles"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pingle">
-		<match value="pingle"/>
+		<match value="pingle">
+			<value value="pingled"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pinners">
 		<match value="pinners"/>
@@ -925,7 +954,9 @@
 		<match value="riggs"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#rintherout">
-		<match value="rintherout"/>
+		<match value="rintherout">
+			<value value="rintherouts"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#rokelay">
 		<match value="rokelay"/>
@@ -961,7 +992,9 @@
 		<match value="saumon"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sark">
-		<match value="sark"/>
+		<match value="sark">
+			<value value="sarks"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#saut">
 		<match value="saut"/>
@@ -982,7 +1015,9 @@
 		<match value="scroll"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#seannachie">
-		<match value="seannachie"/>
+		<match value="seannachie">
+			<value value="seannachies"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#shanks">
 		<match value="shanks"/>
@@ -1060,7 +1095,10 @@
 		<match value="speer"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#speir">
-		<match value="speir"/>
+		<match value="speir">
+			<value value="speirs"/>
+			<value value="speirings"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#spence">
 		<match value="spence"/>
@@ -1081,7 +1119,9 @@
 		<match value="spuilzie"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#spong">
-		<match value="spong"/>
+		<match value="spong">
+			<value value="sponged"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#spurrzie">
 		<match value="spurrzie"/>

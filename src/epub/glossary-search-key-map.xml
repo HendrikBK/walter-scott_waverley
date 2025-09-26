@@ -294,8 +294,8 @@
 	<search-key-group href="text/glossary.xhtml#clachan">
 		<match value="clachan"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#clamyhewit">
-		<match value="clamyhewit"/>
+	<search-key-group href="text/glossary.xhtml#clamhewit">
+		<match value="clamhewit"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#clash">
 		<match value="clash"/>

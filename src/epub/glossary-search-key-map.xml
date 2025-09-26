@@ -432,8 +432,8 @@
 			<value value="dog-heads"/>
 		</match>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#doiled">
-		<match value="doiled"/>
+	<search-key-group href="text/glossary.xhtml#doild">
+		<match value="doil’d"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#doited">
 		<match value="doited"/>

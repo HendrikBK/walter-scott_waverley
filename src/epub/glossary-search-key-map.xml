@@ -670,7 +670,7 @@
 		<match value="howe"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#houlerying-and-poulerying">
-		<match value="houlerying-and-poulerying"/>
+		<match value="houlerying and poulerying"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#hurdles">
 		<match value="hurdles"/>

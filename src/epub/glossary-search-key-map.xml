@@ -93,7 +93,7 @@
 		<match value="banes"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bang-up">
-		<match value="bang-up"/>
+		<match value="bang up"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#barley">
 		<match value="barley"/>

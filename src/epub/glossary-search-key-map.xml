@@ -137,7 +137,9 @@
 		<match value="bent"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bhaird">
-		<match value="bhaird"/>
+		<match value="bhaird">
+			<value value="bhairds"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bicker">
 		<match value="bicker"/>

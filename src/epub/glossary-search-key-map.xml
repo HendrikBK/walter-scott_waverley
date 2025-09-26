@@ -118,8 +118,8 @@
 	<search-key-group href="text/glossary.xhtml#bees">
 		<match value="bees"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#beflummd">
-		<match value="beflumm’d"/>
+	<search-key-group href="text/glossary.xhtml#beflummed">
+		<match value="beflummed"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#begunk">
 		<match value="begunk"/>

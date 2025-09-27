@@ -871,7 +871,7 @@
 		<match value="orra"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#orra-time">
-		<match value="orra-time"/>
+		<match value="orra time"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ower">
 		<match value="ower"/>

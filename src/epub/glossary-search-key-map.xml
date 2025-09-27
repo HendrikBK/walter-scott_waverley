@@ -799,7 +799,7 @@
 		<match value="maun"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#meal-ark">
-		<match value="meal ark"/>
+		<match value="meal-ark"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#merk">
 		<match value="merk"/>

@@ -955,9 +955,9 @@
 	<search-key-group href="text/glossary.xhtml#riggs">
 		<match value="riggs"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#rintherout">
-		<match value="rintherout">
-			<value value="rintherouts"/>
+	<search-key-group href="text/glossary.xhtml#rinthereout">
+		<match value="rinthereout">
+			<value value="rinthereouts"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#rokelay">

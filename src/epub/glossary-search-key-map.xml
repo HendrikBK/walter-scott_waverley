@@ -351,7 +351,9 @@
 		<match value="craig"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#crame">
-		<match value="crame"/>
+		<match value="crame">
+			<value value="crames"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#creagh">
 		<match value="creagh"/>
@@ -796,8 +798,8 @@
 	<search-key-group href="text/glossary.xhtml#nainsell">
 		<match value="nainsell"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#natheless">
-		<match value="natheless"/>
+	<search-key-group href="text/glossary.xhtml#nathless">
+		<match value="nathless"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#neb">
 		<match value="neb"/>
@@ -861,16 +863,17 @@
 		<match value="plaidy"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#plenish">
-		<match value="plenish"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#plenishing">
-		<match value="plenishing"/>
+		<match value="plenish">
+			<value value="plenishing"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ploy">
 		<match value="ploy"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pottingar">
-		<match value="pottingar"/>
+		<match value="pottingar">
+			<value value="pottingars"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pownie">
 		<match value="pownie"/>

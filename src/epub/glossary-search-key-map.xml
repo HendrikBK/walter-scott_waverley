@@ -545,7 +545,7 @@
 		<match value="gin"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gite">
-		<match value="gite"/>
+		<match value="gîte"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gled">
 		<match value="gled"/>

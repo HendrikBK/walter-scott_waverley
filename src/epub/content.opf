@@ -58,7 +58,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5998</dc:source>
 		<!-- Vol. 1 -->
-		<dc:source>archive.org/details/waverleynovels011893scotuoft</dc:source>
+		<dc:source>https://archive.org/details/waverleynovels011893scotuoft</dc:source>
 		<!-- Vol. 2 -->
 		<dc:source>https://archive.org/details/waverleynovelswi02scotuoft</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>

@@ -316,7 +316,9 @@
 		<match value="cockyleeky"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#coghling-and-droghling">
-		<match value="coghling and droghling"/>
+		<match value="coghling and droghling">
+			<value value="droghling coghling"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cogs">
 		<match value="cogs"/>

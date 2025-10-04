@@ -2,6 +2,12 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+@font-face{
+	font-family: "Standard Blackletter";
+	font-weight: 700;
+	src: url("../fonts/standard-blackletter.otf") format("opentype");
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
@@ -131,4 +137,9 @@ footer{
 #chapter-2-43 blockquote{
 	font-variant: small-caps;
 	text-align: center;
+}
+
+/* Blackletter in chapter-1-8 */
+#chapter-1-8 b{
+	font-family: "Standard Blackletter";
 }

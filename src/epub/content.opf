@@ -32,7 +32,7 @@
 		<dc:title id="subtitle">Or, ’Tis Sixty Years Since</dc:title>
 		<meta property="file-as" refines="#subtitle">Or, ’Tis Sixty Years Since</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">Waverley, or ’Tis Sixty Years Sinceor The Whale</dc:title>
+		<dc:title id="fulltitle">Waverley, or ’Tis Sixty Years Since</dc:title>
 		<meta property="file-as" refines="#fulltitle">Waverley</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>

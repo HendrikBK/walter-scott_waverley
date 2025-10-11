@@ -158,3 +158,12 @@ footer{
 	display: block;
 	text-align: center;
 }
+
+/* Italics in second line of blockquote header in chapter 1-29 */
+#chapter-1-29 blockquote header p:last-of-type{
+	font-style: italic;
+}
+
+#chapter-1-29 blockquote header p:last-of-type time{
+	font-style: normal;
+}
